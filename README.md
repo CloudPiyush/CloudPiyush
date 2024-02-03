@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @CloudPiyush
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... Python
+- 🌱 I Haved Done Python programming
+- I Learn Machine Learning
+- I learn AArtifical Intelligence
+- I Completed Structural Query Language (SQL)
 - 💞️ I’m looking to collaborate on ... data science
 - 📫 How to reach me ... piyushpatilcloud@gmail.com
 
