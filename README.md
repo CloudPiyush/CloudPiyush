@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programming
 - 🌱 I Haved Done Python programming
 - I Learn Machine Learning
-- I learn AArtifical Intelligence
+- I learn Artifical Intelligence
 - I Completed Structural Query Language (SQL)
 - 💞️ I’m looking to collaborate on ... data science
 - 📫 How to reach me ... piyushpatilcloud@gmail.com
